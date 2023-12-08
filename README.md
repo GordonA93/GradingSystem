@@ -1,3 +1,5 @@
+# Exam Grading System
+
 Simple console application that will grade a users exam result. It will also take in multiple exam results, provide the average and what grade the average would be.
 
 You will first be asked to select one of the menu options. If you select an incorrect option, the application will inform you of this and present the menu options again.
